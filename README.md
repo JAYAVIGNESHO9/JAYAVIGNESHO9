@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayavignesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5oamJwdWEzenEwY2h2Z2Zva3Mwb2R6ZncybjJxcWt5OHRxYnBueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif")
+<img align="right" alt="Coding" width="400" src=" https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnV4ZG9zOWJpNGlycnRjZnRyM2x5eGxkaDFubDBxam15cHdjODh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif ">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayavignesho9" alt="jayavignesho9" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
