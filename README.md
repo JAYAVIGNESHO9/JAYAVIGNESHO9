@@ -1,4 +1,4 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/13/14/96/99/1000_F_1314969976_Et83dsAfXuPue88d0LcFInEX3xmyOp95.jpg)
+![MasterHead](https://as2.ftcdn.net/v2/jpg/13/14/96/99/1000_F_1314969976_Et83dsAfXuPue88d0LcFInEX3xmyOp95.jpg)
 
 <h1 align="center">Hi 👋, I'm Jayavignesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
