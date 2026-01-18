@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayavignesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil")
+(img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnV4ZG9zOWJpNGlycnRjZnRyM2x5eGxkaDFubDBxam15cHdjODh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif")
 - 📫 How to reach me **jayavignesh4844@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
